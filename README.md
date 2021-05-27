@@ -9,4 +9,4 @@ Prerequisites:
 Process comes from this website: 
 https://data-flair.training/blogs/django-project-news-aggregator-app/
 
-![Setting up Django](https://github.com/yarmas/NewsAggregator/blob/documentation-photos/image.jpg?raw=true)
+![Setting up Django](https://github.com/yarmas/NewsAggregator/blob/documentation-photos/cmdprompt1.png?raw=true)
