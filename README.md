@@ -8,4 +8,5 @@ Prerequisites:
 
 Process comes from this website: 
 https://data-flair.training/blogs/django-project-news-aggregator-app/
+
 !(Setting up Django)[https://imgur.com/CojeWKq]
