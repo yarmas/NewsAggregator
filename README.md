@@ -6,4 +6,6 @@ Developing a news aggregator through Django, Python, and BeautifulSoup
 Prerequisites:
 - Python 3.8.1 already installed on device
 
-!(https://imgur.com/CojeWKq)[Setting up Django with Python]
+Process comes from this website: 
+https://data-flair.training/blogs/django-project-news-aggregator-app/
+!(Setting up Django)[https://imgur.com/CojeWKq]
