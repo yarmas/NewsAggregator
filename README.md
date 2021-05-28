@@ -10,8 +10,3 @@ Steps for development come from this tutorial:
 https://data-flair.training/blogs/django-project-news-aggregator-app/
 
 ![Setting up Django](https://github.com/yarmas/NewsAggregator/blob/cmdprompt1.png?raw=true)
-
-
-
-            cmdprompt1.png
-          
