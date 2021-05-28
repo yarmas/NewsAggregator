@@ -9,4 +9,4 @@ Prerequisites:
 Steps for development come from this tutorial: 
 https://data-flair.training/blogs/django-project-news-aggregator-app/
 
-![Setting up Django](cmdprompt.png)
+![Setting up Django](cmdprompt1.png)
